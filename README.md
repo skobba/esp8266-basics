@@ -6,15 +6,13 @@
 ## Naming
 In platformio: upload_port = /dev/cu.SLAB_USBtoUAR
 
-* /dev/cu.SLAB_USBtoUART
-* /dev/cu.usbserial-1430
-* /dev/cu.wchusbserial1430 (Tested on Mojave)
 
 ## Siliabs
 https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+* /dev/cu.SLAB_USBtoUART
 
 ## http://wch.cn
 http://wch.cn/download/CH341SER_ZIP.html
+* /dev/cu.usbserial-1430
+* /dev/cu.wchusbserial1430 (Tested on Mojave)
 
-## ch340g
-https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver
