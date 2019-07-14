@@ -6,9 +6,9 @@
 ## Naming
 In platformio: upload_port = /dev/cu.SLAB_USBtoUAR
 
+* /dev/cu.SLAB_USBtoUART
 * /dev/cu.usbserial-1430
 * /dev/cu.wchusbserial1430 (Tested on Mojave)
-* /dev/cu.SLAB_USBtoUAR
 
 ## Siliabs
 https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
