@@ -8,3 +8,6 @@ https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vc
 
 ## http://wch.cn
 http://wch.cn/download/CH341SER_ZIP.html
+
+## ch340g
+https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver
